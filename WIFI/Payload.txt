@@ -1,5 +1,5 @@
 REM Title: WIFI PASS EXFILL
-REM Author: EHRN0
+REM Author: 3RN0D3P
 REM Description:
 REM Target: Windows
 
