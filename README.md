@@ -1,2 +1,2 @@
 # Ducky
-Ducky scripts payloads - For Educational Use Only
+My Ducky scripts payloads - For Educational Use Only
