@@ -6,4 +6,4 @@ Les identifiants du serveur distant sont créés localement via les variables d'
 
 ---
 
-J'ai fait ce script purement dans un contexte d'apprentisage. 
+J'ai développé ce script dans un contexte d'apprentissage.
